@@ -1,0 +1,14 @@
+Cd,Ce,adf,abE,abDF,bdEF
+Cd,abd,adF,acEF,bdef,bCeF,BDEf,abcef
+def,bCd,BCf,abce,acdF,abeF,acDE
+Bdf,bCF,CDf,adef,cdEF,abcEf,acDeF
+def,bCf,Bce,BdF,BDE,Aef,abEf,AdEF
+Cf,aDf,def,Cde,Bce,BDE,BCd,acDe
+CDeF,bCdEF,BcdEf
+CDeF,AdEf,bCdEF,BcdEf
+abEf,bCde,bCDE,BdeF,BDef,BCdF,abcdE,abcDe
+bCd,CdF,bCE,abdE,abEf,Bcde,abcDe,BCDef
+BcDE,AdeF,AdEf
+AdF,AdE,BcDf,BCDEF
+Ade,AdF,BCEF
+Ade,BcDef,BcDEF,BCdEf
